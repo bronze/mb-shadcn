@@ -23,7 +23,7 @@ import {NavMain} from "@/components/nav-main";
 import {NavProjects} from "@/components/nav-projects";
 import {NavSecondary} from "@/components/nav-secondary";
 import {NavUser} from "@/components/nav-user";
-import {ModeToggle} from "@/components/ModeToggle";
+// import {ModeToggle} from "@/components/ModeToggle";
 import {TeamSwitcher} from "@/components/team-switcher";
 import {Sidebar, SidebarContent, SidebarFooter, SidebarHeader, SidebarRail} from "@/components/ui/sidebar";
 
@@ -239,7 +239,7 @@ export function AppSidebar({...props}: React.ComponentProps<typeof Sidebar>) {
       <SidebarContent>
         <NavProjects projects={data.projects} />
         <NavMain items={data.navMain} />
-        <ModeToggle />
+        {/* <ModeToggle /> */}
         <NavSecondary items={data.navSecondary} className="mt-auto" />
       </SidebarContent>
       <SidebarFooter>
