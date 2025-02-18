@@ -59,15 +59,23 @@ const data = {
       isActive: true,
       items: [
         {
-          title: "History",
+          title: "Componentes Curriculares",
           url: "#",
         },
         {
-          title: "Starred",
+          title: "Aulas Online",
           url: "#",
         },
         {
-          title: "Settings",
+          title: "E-Books",
+          url: "#",
+        },
+        {
+          title: "Redação",
+          url: "#",
+        },
+        {
+          title: "Listegning & Speaking",
           url: "#",
         },
       ],
@@ -78,15 +86,15 @@ const data = {
       icon: Notebook,
       items: [
         {
-          title: "Genesis",
+          title: "Resoluções",
           url: "#",
         },
         {
-          title: "Explorer",
+          title: "Tarefas",
           url: "#",
         },
         {
-          title: "Quantum",
+          title: "Arividades Avaliativas",
           url: "#",
         },
       ],
@@ -97,19 +105,15 @@ const data = {
       icon: BookOpen,
       items: [
         {
-          title: "Introduction",
+          title: "Etapas",
           url: "#",
         },
         {
-          title: "Get Started",
+          title: "Notas",
           url: "#",
         },
         {
-          title: "Tutorials",
-          url: "#",
-        },
-        {
-          title: "Changelog",
+          title: "Registros",
           url: "#",
         },
       ],
@@ -120,19 +124,11 @@ const data = {
       icon: Users,
       items: [
         {
-          title: "General",
+          title: "Go Home",
           url: "#",
         },
         {
-          title: "Team",
-          url: "#",
-        },
-        {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
+          title: "Área Financeira",
           url: "#",
         },
       ],
@@ -143,19 +139,15 @@ const data = {
       icon: Settings2,
       items: [
         {
-          title: "General",
+          title: "Banco de Questões",
           url: "#",
         },
         {
-          title: "Team",
+          title: "Presença",
           url: "#",
         },
         {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
+          title: "Turmas",
           url: "#",
         },
       ],
@@ -166,19 +158,23 @@ const data = {
       icon: School,
       items: [
         {
-          title: "General",
+          title: "Feed",
           url: "#",
         },
         {
-          title: "Team",
+          title: "Loja Bernoulli",
           url: "#",
         },
         {
-          title: "Billing",
+          title: "Data Analytics",
           url: "#",
         },
         {
-          title: "Limits",
+          title: "Conteúdo Lecionado",
+          url: "#",
+        },
+        {
+          title: "Configurações",
           url: "#",
         },
       ],
@@ -189,19 +185,15 @@ const data = {
       icon: NotebookPen,
       items: [
         {
-          title: "General",
+          title: "Simulados ENEM",
           url: "#",
         },
         {
-          title: "Team",
+          title: "Avaliação Processual",
           url: "#",
         },
         {
-          title: "Billing",
-          url: "#",
-        },
-        {
-          title: "Limits",
+          title: "Avaliação Periódica",
           url: "#",
         },
       ],
