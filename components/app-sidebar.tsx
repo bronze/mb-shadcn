@@ -1,23 +1,7 @@
 "use client";
 
 import * as React from "react";
-import {
-  AudioWaveform,
-  BookOpen,
-  Command,
-  Infinity,
-  LifeBuoy,
-  Send,
-  Settings2,
-  Calendar,
-  HardDrive,
-  Mail,
-  Book,
-  Notebook,
-  Users,
-  School,
-  NotebookPen,
-} from "lucide-react";
+import {BookOpen, Infinity, LifeBuoy, Send, Settings2, Calendar, HardDrive, Mail, Book, Notebook, Users, School, NotebookPen} from "lucide-react";
 
 import {NavMain} from "@/components/nav-main";
 import {NavProjects} from "@/components/nav-projects";
@@ -41,13 +25,13 @@ const data = {
       plan: "Sistema Bernoulli",
     },
     {
-      name: "Acme Corp.",
-      logo: AudioWaveform,
+      name: "Colégio C.Bronze",
+      logo: Infinity,
       plan: "Startup",
     },
     {
-      name: "Evil Corp.",
-      logo: Command,
+      name: "Colégio A.Fornazari",
+      logo: Infinity,
       plan: "Free",
     },
   ],
