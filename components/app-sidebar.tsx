@@ -84,6 +84,25 @@ const data = {
       ],
     },
     {
+      title: "Avaliações",
+      url: "#",
+      icon: NotebookPen,
+      items: [
+        {
+          title: "Simulados ENEM",
+          url: "#",
+        },
+        {
+          title: "Avaliação Processual",
+          url: "#",
+        },
+        {
+          title: "Avaliação Periódica",
+          url: "#",
+        },
+      ],
+    },
+    {
       title: "Notas",
       url: "#",
       icon: BookOpen,
@@ -159,25 +178,6 @@ const data = {
         },
         {
           title: "Configurações",
-          url: "#",
-        },
-      ],
-    },
-    {
-      title: "Avaliações",
-      url: "#",
-      icon: NotebookPen,
-      items: [
-        {
-          title: "Simulados ENEM",
-          url: "#",
-        },
-        {
-          title: "Avaliação Processual",
-          url: "#",
-        },
-        {
-          title: "Avaliação Periódica",
           url: "#",
         },
       ],
