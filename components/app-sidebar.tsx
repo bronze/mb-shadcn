@@ -36,9 +36,9 @@ const data = {
   },
   teams: [
     {
-      name: "Bernoulli Educação",
+      name: "Colégio F.Rossi",
       logo: Infinity,
-      plan: "Enterprise",
+      plan: "Sistema Bernoulli",
     },
     {
       name: "Acme Corp.",
